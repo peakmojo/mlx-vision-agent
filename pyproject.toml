@@ -8,6 +8,8 @@ dependencies = [
     "pillow",
     "mss",
     "python-dotenv",
+    "flask",
+    "flask-socketio",
 ]
 
 [build-system]
